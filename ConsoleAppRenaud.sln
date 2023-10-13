@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleAppRenaud", "ConsoleAppRenaud\ConsoleAppRenaud.csproj", "{CCAE2D31-C75E-4411-925B-4D289BE78CDC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleAppRenaud_Console", "ConsoleAppRenaud_Console\ConsoleAppRenaud_Console.csproj", "{7B65D681-6A96-4A66-AE6E-004E24079608}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CCAE2D31-C75E-4411-925B-4D289BE78CDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCAE2D31-C75E-4411-925B-4D289BE78CDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCAE2D31-C75E-4411-925B-4D289BE78CDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCAE2D31-C75E-4411-925B-4D289BE78CDC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B65D681-6A96-4A66-AE6E-004E24079608}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B65D681-6A96-4A66-AE6E-004E24079608}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B65D681-6A96-4A66-AE6E-004E24079608}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B65D681-6A96-4A66-AE6E-004E24079608}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F2F38FFC-3D7C-4E09-BFEF-4D8167F78EE6}
+	EndGlobalSection
+EndGlobal
